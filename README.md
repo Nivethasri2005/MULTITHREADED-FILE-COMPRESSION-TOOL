@@ -20,7 +20,7 @@ The objective of this project is to build a tool to compress and decompress file
 
 REQUIREMENTS
 
-C+= compiler
+C++ compiler
 
 FEATURES
 
